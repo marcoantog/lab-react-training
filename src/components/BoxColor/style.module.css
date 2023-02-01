@@ -1,0 +1,10 @@
+.oDiv {
+    border: 2px black solid;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    padding: 19px;
+    margin-bottom: 15px;
+    font-size: 1.5em;
+    text-align: center;
+}

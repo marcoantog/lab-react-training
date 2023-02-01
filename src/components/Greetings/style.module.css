@@ -1,0 +1,7 @@
+.oDiv {
+    border: 2px black solid;
+    display: flex;
+    padding: 4px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
