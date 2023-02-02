@@ -1,0 +1,12 @@
+.intFive {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+.intSix {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 3.5em;
+    justify-content: center;
+}
