@@ -22,3 +22,15 @@
     display: flex;
     justify-content: center;
 }
+
+.intEleven {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: auto;
+    margin-left: auto;
+    width: 128px;
+}
+
+.intEleven img {
+    width: 100%;
+}
