@@ -10,3 +10,15 @@
     font-size: 3.5em;
     justify-content: center;
 }
+
+.intSeven {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 99%;
+}
+
+.intEight {
+    display: flex;
+    justify-content: center;
+}
