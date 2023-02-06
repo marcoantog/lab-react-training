@@ -11,6 +11,7 @@ import Max from './assets/images/maxence.png';
 import MaxGlasses from './assets/images/maxence-glasses.png';
 import { Dice } from './components/Dice';
 import { Carousel } from './components/Carousel';
+import { NumbersTable } from './components/NumbersTable';
 
 import style from './style.module.css';
 
@@ -183,6 +184,7 @@ function App() {
       <br />
       <b>Iteration 12</b>
       <hr />
+      <NumbersTable limit={12} />
     </div>
   );
 }
