@@ -1,0 +1,12 @@
+.outerDiv {
+    border: 2px solid black;
+    display: flex;
+    padding: 4px;
+    margin-bottom: 8px;
+    font-size: 1.5em;
+}
+
+.photo {
+    margin: 4px;
+    width: 180px;
+}
